@@ -12,6 +12,6 @@ int main()
 {
 	cout<<"Hello world!!";
 	show();	
-	cout<<endl;
+	cout<<"End of program"<<endl;
 	return 0;
 }
