@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-void show()
+void display()
 {
 	for(int i=0;i<10;i++)
 	{
@@ -11,7 +11,7 @@ void show()
 int main()
 {
 	cout<<"Hello world!!";
-	show();	
+	display();	
 	int ch;
 	cin>>ch;
 	switch(ch)
