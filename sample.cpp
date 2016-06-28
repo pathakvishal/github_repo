@@ -1,12 +1,17 @@
 #include <iostream>
 using namespace std;
-int main()
+void show()
 {
-	cout<<"Hello world!!";
 	for(int i=0;i<10;i++)
 	{
 		cout<<i<<endl;
 	}
+
+}
+int main()
+{
+	cout<<"Hello world!!";
+	show();	
 	cout<<endl;
 	return 0;
 }
