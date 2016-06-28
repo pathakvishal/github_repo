@@ -20,6 +20,6 @@ int main()
 			break;
 		case 2: cout<<"Two"<<endl;
 	}
-	cout<<"End of program"<<endl;
+	cout<<"Ending of program"<<endl;
 	return 0;
 }
